@@ -1,0 +1,7 @@
+{
+  "name": "ZenPulse AI",
+  "description": "ZenPulse AI – A minimalist, privacy-first health app that blends Traditional Chinese Medicine with modern AI. It offers intelligent face & hand diagnosis, chronic wellness tracking, and personalized diet & exercise plans, helping you balance body and mind in a calm, natural way.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
